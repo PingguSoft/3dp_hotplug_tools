@@ -8,6 +8,7 @@
 ![pic](/pics/3dp_hotplug_tools_pinout.png){: width="50%" height="50%"}
  
 **base**
+<img src="/pics/3dp_hotplug_tools_base_1.png" width="50%">
 ![pic](/pics/3dp_hotplug_tools_base_1.png){: width="600"}
 ![pic](/pics/3dp_hotplug_tools_base_2.png)
 
