@@ -5,17 +5,17 @@
  - https://www.thingiverse.com/thing:3369444
  - https://www.thingiverse.com/thing:3547740
  - female connector is built in the base and male connector is built in the tools
-![pic](https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_pinout.png?raw=true)
+![pic](/pics/3dp_hotplug_tools_pinout.png){: width="50%" height="50%"}
  
 **base**
-![pic](https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_base_1.png?raw=true)
-![pic](https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_base_2.png?raw=true)
+![pic](/pics/3dp_hotplug_tools_base_1.png){: width="600"}
+![pic](/pics/3dp_hotplug_tools_base_2.png)
 
 **3dp hotend**
-![pic](https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_hotend_1.png?raw=true)
-![pic](https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_hotend_2.png?raw=true)
+![pic](/pics/3dp_hotplug_tools_hotend_1.png)
+![pic](/pics/3dp_hotplug_tools_hotend_2.png)
 
 **plotter**
-![pic](https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_1.png?raw=true)
-![pic](https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_1.png?raw=true)
+![pic](/pics/3dp_hotplug_tools_plotter_1.png)
+![pic](/pics/3dp_hotplug_tools_plotter_1.png)
 
