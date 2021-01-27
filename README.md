@@ -30,3 +30,10 @@
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_pinout_plotter.png?raw=true" width="60%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_1.png?raw=true" width="40%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_2.png?raw=true" width="40%">
+
+## laser tool
+ - laser voltage is controlled by using fan signal for laser module without pwm signal
+ - if laser module has pwm signal, 15A mosfet module is not required
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_pinout_laser.png?raw=true" width="60%">
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_laser_1.png?raw=true" width="40%">
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_laser_2.png?raw=true" width="40%">
