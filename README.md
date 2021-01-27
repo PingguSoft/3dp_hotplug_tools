@@ -22,6 +22,7 @@
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_pinout_hotend.png?raw=true" width="70%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_hotend_1.png?raw=true" width="60%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_hotend_2.png?raw=true" width="60%">
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_hotend_3.png?raw=true" width="60%">
 
 
 ## plotter tool
@@ -30,6 +31,7 @@
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_pinout_plotter.png?raw=true" width="70%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_1.png?raw=true" width="60%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_2.png?raw=true" width="60%">
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_3.png?raw=true" width="60%">
 
 ## laser tool
  - laser voltage is controlled by using fan signal for laser module without pwm signal
@@ -37,3 +39,4 @@
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_pinout_laser.png?raw=true" width="70%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_laser_1.png?raw=true" width="60%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_laser_2.png?raw=true" width="60%">
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_laser_3.png?raw=true" width="60%">
