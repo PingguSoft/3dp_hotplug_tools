@@ -1,13 +1,13 @@
 
-# 3dp_hotplug_tools
+# [ 3dp_hotplug_tools](https://github.com/PingguSoft/3dp_hotplug_tools)
 
 ## hot-pluggable 3d printer tools
- - remix from ProperPrinting's tools 
+ - remixed from ProperPrinting's tools 
  - https://www.thingiverse.com/thing:3369444
  - https://www.thingiverse.com/thing:3547740
  - female connector is built in the base and male connector is built in the tools
- **big current flows through VBB (24V for ender3) and extruder heater pins, so 4 pins for each are assigned**
- **required voltages can be driven through VBB and GND by using DC-DC converter**
+   - **big current flows through VBB (24V for ender3) and extruder heater pins, so 4 pins for each are assigned**
+   - **required voltages can be driven through VBB and GND by using DC-DC converter**
  
 ## base
  - female connector is installed by 15 degree angle 
@@ -32,6 +32,7 @@
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_1.png?raw=true" width="60%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_2.png?raw=true" width="60%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_3.png?raw=true" width="60%">
+[![](https://img.youtube.com/vi/ooa_5NmSuvM/0.jpg)](https://www.youtube.com/watch?v=ooa_5NmSuvM)
 
 ## laser tool
  - laser voltage is controlled by using fan signal for laser module without pwm signal
@@ -39,4 +40,4 @@
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_pinout_laser.png?raw=true" width="70%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_laser_1.png?raw=true" width="60%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_laser_2.png?raw=true" width="60%">
-<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_laser_3.png?raw=true" width="60%">
+<img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_laser_3.png?raw=true" width="60%">[![](https://img.youtube.com/vi/72gGR1SVQI4/0.jpg)](https://www.youtube.com/watch?v=72gGR1SVQI4)
