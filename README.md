@@ -28,6 +28,7 @@
 ## plotter tool
  - pen is moved up and down by using fan signal to speed up
  - pen is moved by solenoid and gravity and move up when solenoid is on (=fan is on)
+ - cura plugin for the plotter is [here](https://github.com/PingguSoft/cura_plugin)
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_pinout_plotter.png?raw=true" width="70%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_1.png?raw=true" width="60%">
 <img src="https://github.com/PingguSoft/3dp_hotplug_tools/blob/main/pics/3dp_hotplug_tools_plotter_2.png?raw=true" width="60%">
